@@ -28,10 +28,10 @@ const peguntas = [
         ]
     },
     {
-        Enunciado: "Pergunta1",
+        Enunciado: "Ao final da discussão, Gabriel precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         Alternativas: [
-            "Alternativa1",
-            "Alternaiva2"
+            "Criar uma imagem utilizando um gerador de imagem de IA.",
+            "Criar uma imagem utilizando uma plataforma de design como o Paint."
         ]
     },
     {
@@ -42,3 +42,8 @@ const peguntas = [
         ]
     }
 ];
+let atual = 0;
+let perguntaAtual;
+ function mostraPergunta(){
+    
+ }
