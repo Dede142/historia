@@ -35,10 +35,10 @@ const peguntas = [
         ]
     },
     {
-        Enunciado: "Pergunta1",
+        Enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao o chat. O que você faz?",
         Alternativas: [
-            "Alternativa1",
-            "Alternaiva2"
+            "Escrever comanos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utiizar o texto inteiro. ",
+            "O chat pode ser uma tecnologia muito avançad, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial"
         ]
     }
 ];
